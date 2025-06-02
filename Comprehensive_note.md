@@ -63,3 +63,16 @@ Key aspects of advanced analytics include:
 - **Big Data Analytics:** Handling and analyzing large, complex datasets that traditional tools cannot process efficiently.
 
 Advanced analytics empowers organizations to gain a competitive edge by enabling proactive strategies, optimizing operations, and identifying new opportunities.
+
+
+## What is Big Data?
+
+Big data refers to extremely large and complex datasets that are difficult to process, store, and analyze using traditional data management tools. These datasets are characterized by the "3 Vs":
+
+- **Volume:** Massive amounts of data generated from various sources such as social media, sensors, transactions, and devices.
+- **Velocity:** The speed at which new data is generated and needs to be processed.
+- **Variety:** The diversity of data types, including structured, semi-structured, and unstructured data.
+
+Additional characteristics sometimes include **Veracity** (data quality and reliability) and **Value** (usefulness of the data).
+
+Big data technologies and frameworks, such as Hadoop, Spark, and NoSQL databases, enable organizations to store, process, and analyze big data efficiently. Applications of big data span industries, supporting use cases like real-time analytics, personalized recommendations, fraud detection, and predictive maintenance.
