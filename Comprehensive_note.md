@@ -36,3 +36,30 @@ Key applications of generative AI include:
 - **Code Generation:** Assisting with programming tasks by generating code snippets.
 
 Generative AI is transforming industries by enabling automation, enhancing creativity, and providing new ways to interact with data and technology.
+
+## What is Artificial General Intelligence (AGI)?
+
+Artificial General Intelligence (AGI) refers to a type of artificial intelligence that possesses the ability to understand, learn, and apply knowledge across a wide range of tasks at a level comparable to human intelligence. Unlike narrow AI, which is designed for specific tasks, AGI would be capable of reasoning, problem-solving, and adapting to new situations without human intervention.
+
+Key characteristics of AGI include:
+
+- **Generalization:** Ability to transfer knowledge and skills across different domains.
+- **Autonomy:** Capability to make decisions and learn independently.
+- **Reasoning:** Understanding complex concepts and relationships.
+- **Adaptability:** Learning from new experiences and environments.
+
+AGI remains a theoretical concept, with ongoing research focused on bridging the gap between current AI systems and truly general intelligence.
+
+## Advanced Analytics
+
+Advanced analytics refers to a set of sophisticated techniques and tools used to analyze data beyond traditional business intelligence. It leverages statistical models, machine learning, predictive modeling, and data mining to uncover deeper insights, forecast future trends, and support complex decision-making.
+
+Key aspects of advanced analytics include:
+
+- **Predictive Analytics:** Using historical data to predict future outcomes or behaviors.
+- **Prescriptive Analytics:** Recommending actions based on predictive insights and optimization algorithms.
+- **Machine Learning:** Employing algorithms that learn from data to improve predictions or classifications over time.
+- **Text Analytics:** Extracting meaningful information from unstructured text data.
+- **Big Data Analytics:** Handling and analyzing large, complex datasets that traditional tools cannot process efficiently.
+
+Advanced analytics empowers organizations to gain a competitive edge by enabling proactive strategies, optimizing operations, and identifying new opportunities.
