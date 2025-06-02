@@ -1,0 +1,7 @@
+Data analysis refers to the process of inspecting, cleaning, transforming, and modeling data to discover useful information, draw conclusions, and support decision-making.
+
+Data analytics is a broader field that encompasses data analysis, but also includes the tools, techniques, and processes used to analyze data, as well as the application of statistical, computational, and machine learning methods to extract insights and inform business strategies.
+
+In summary:
+- Data analysis: The actual process of examining data. Talks about past events
+- Data analytics: The overall discipline, including data analysis, tools, methods, and applications.predits future events
