@@ -92,3 +92,16 @@ Additional characteristics sometimes include **Veracity** (data quality and reli
 Big data technologies and frameworks, such as Hadoop, Spark, and NoSQL databases, enable organizations to store, process, and analyze big data efficiently. Applications of big data span industries, supporting use cases like real-time analytics, personalized recommendations, fraud detection, and predictive maintenance.
 
 NOTE, A GOOD BUSINESS ANALYST DOES NOT LOOK AT PROBLEM FROM ONE DIRECTION
+
+## What is Quantification?
+
+Quantification is the process of measuring or expressing something in numerical terms. In data science and analytics, quantification involves assigning numerical values to variables, attributes, or phenomena to enable objective analysis and comparison. This process is essential for transforming qualitative observations into quantitative data that can be analyzed statistically.
+
+Examples of quantification include:
+
+- Converting survey responses into numerical scores.
+- Measuring the frequency of events or occurrences.
+- Assigning numerical ratings to customer satisfaction.
+- Calculating metrics such as averages, percentages, or growth rates.
+
+Quantification allows for more precise analysis, supports data-driven decision-making, and facilitates the application of mathematical and statistical techniques to real-world problems.
