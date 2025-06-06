@@ -13,6 +13,20 @@ Key components of data science include:
 
 Data science is widely used in industries such as finance, healthcare, marketing, and technology to drive innovation and improve outcomes.
 
+
+## What is Data?
+
+Data refers to raw facts, figures, or information collected from observations, measurements, or experiments. It can be quantitative (numerical) or qualitative (descriptive) and serves as the foundation for analysis and decision-making. In the context of data science, data is gathered from various sources and processed to extract meaningful insights.
+
+Types of data include:
+
+- **Structured Data:** Organized in rows and columns, such as databases and spreadsheets.
+- **Unstructured Data:** Lacks a predefined format, including text, images, audio, and video.
+- **Semi-Structured Data:** Contains both structured and unstructured elements, like JSON or XML files.
+
+Effective data management and analysis are essential for transforming raw data into actionable knowledge.
+
+
 ## Business Analytics, Data Analytics, and Data Science: An Introduction
 
 While data science is a broad field, it is closely related to business analytics and data analytics. Understanding the distinctions and connections among these areas is essential:
@@ -76,3 +90,5 @@ Big data refers to extremely large and complex datasets that are difficult to pr
 Additional characteristics sometimes include **Veracity** (data quality and reliability) and **Value** (usefulness of the data).
 
 Big data technologies and frameworks, such as Hadoop, Spark, and NoSQL databases, enable organizations to store, process, and analyze big data efficiently. Applications of big data span industries, supporting use cases like real-time analytics, personalized recommendations, fraud detection, and predictive maintenance.
+
+NOTE, A GOOD BUSINESS ANALYST DOES NOT LOOK AT PROBLEM FROM ONE DIRECTION
